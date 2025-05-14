@@ -1,4 +1,4 @@
-local authorizedURL = "https://raw.githubusercontent.com/zennixfame/NOHERE/main/zennixontop"
+local authorizedURL = "https://raw.githubusercontent.com/zennixfame/NOHERE/refs/heads/main/zennixontop"
 
 local function isAuthorizedSource()
     local scriptSource = debug.getinfo(1, "S").source
